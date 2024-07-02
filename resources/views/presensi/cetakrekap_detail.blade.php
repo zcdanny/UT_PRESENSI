@@ -219,7 +219,7 @@
                                 <span style="color:red ">
                                     Terlambat : {{ $terlambat }} ({{ $terlambat_desimal }})
                                     <br>
-                                    Denda : {{ $denda }}
+                                    POIN :-  {{ $denda }}
                                 </span>
                             @endif
                         @endif
